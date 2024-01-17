@@ -1,6 +1,6 @@
 # Hi there! I'm Furqaan 👋
 
-Welcome to my GitHub profile! I'm deeply enthusiastic about crafting intelligent systems and thrive on architecting resilient software solutions. My home base is Bentonville, Arkansas, and I'm always on the lookout for opportunities to collaborate.
+Welcome to my GitHub profile! Here is a little bit about me:
 
 - 🌱 Learning and experimenting with Python and TensorFlow.
 - 🎓 Graduated from the Univeristy of Arkansas with a bachelor's degree in Computer Science.
