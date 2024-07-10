@@ -7,7 +7,7 @@
 <div>
     🎓 I hold a Bachelor of Science in Computer Science from the University of Arkansas
     <br />
-    💼 Currently working as a Software Engineering Consultant at Kondux Web3 Design Labs
+    💼 Currently working as a Application Developer at DataScout
     <br />
     🌱 I&#39;m always learning and currently focusing on Artificial Intelligence and Data Analysis.
     <br />
